@@ -137,9 +137,3 @@ mvn clean package
 1. Fork the repository.
 2. Create a feature branch.
 3. Submit a pull request with your changes.
-
-#
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See the LICENSE file for details.
