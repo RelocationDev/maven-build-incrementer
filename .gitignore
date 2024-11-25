@@ -8,3 +8,5 @@
 /target/plugin-enhanced.xml
 /target/classes/META-INF/maven/dev.relocation/maven-build-incrementer/plugin-help.xml
 /target/maven-archiver/pom.properties
+/.idea/
+/.idea/inspectionProfiles/
